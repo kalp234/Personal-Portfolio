@@ -16,8 +16,8 @@ const Projects = () => {
     <p className='text-4xl font-bold p-2 border-b-4 border-gray-500 inline'>Projects</p>
     <p className='py-6 text-gray-300'>Check some of my work right here , </p>
     </div>
-    <div className='grid grid-cols-1 w-full sm:grid-cols-2 gap-8 text-center py-8 px-12 sm:px-0  text-black '>
-<div className="card w-full bg-base-100 shadow-xl">
+    <div className='grid grid-cols-1 w-full sm:grid-cols-2 gap-8 text-center py-8 px-12 sm:px-0  text-black dark:text-black dark:bg-white'>
+<div className="card w-full bg-base-100 shadow-xl dark:text-black dark:bg-white">
   <figure><img className="h-40 md:h-52 lg:h-full" src={Healthcare}  /></figure>
   <div className="card-body -mt-5">
     <h2 className="card-title text-2xl font-bold">
@@ -32,7 +32,7 @@ const Projects = () => {
   </div>
 </div>
 
-<div className="card w-full bg-base-100 shadow-xl">
+<div className="card w-full bg-base-100 shadow-xl dark:text-black dark:bg-white">
   <figure><img  className="h-40 md:h-52 lg:h-full" src={GYM}/></figure>
   <div className="card-body -mt-5">
     <h2 className="card-title text-2xl font-bold">
@@ -47,7 +47,7 @@ const Projects = () => {
   </div>
 </div>
 
-<div className="card w-full bg-base-100 shadow-xl">
+<div className="card w-full bg-base-100 shadow-xl dark:text-black dark:bg-white">
   <figure><img className="h-40 md:h-52 lg:h-full" src={Ecommerce} /></figure>
   <div className="card-body -mt-5">
     <h2 className="card-title text-2xl font-bold">
@@ -61,7 +61,7 @@ const Projects = () => {
     </div>
   </div>
 </div>
-<div className="card w-full bg-base-100 shadow-xl">
+<div className="card w-full bg-base-100 shadow-xl dark:text-black dark:bg-white">
   <figure><img className="h-40 md:h-52 lg:h-full" src={Youtubeclone}  /></figure>
   <div className="card-body -mt-5">
     <h2 className="card-title text-2xl font-bold">
@@ -75,7 +75,7 @@ const Projects = () => {
     </div>
   </div>
 </div>
-<div className="card w-full bg-base-100 shadow-xl">
+<div className="card w-full bg-base-100 shadow-xl dark:text-black dark:bg-white">
   <figure><img className="h-40 md:h-52 lg:h-full" src={Facebook}  /></figure>
   <div className="card-body -mt-5">
     <h2 className="card-title text-2xl font-bold">
