@@ -1,7 +1,9 @@
 import React from 'react'
+import Footer from '../Footer/Footer'
 
 function Contact() {
   return (
+    <>
     <div name="Contact" className='bg-gray-800'>
         
 <section class="bg-gray-800 lg:pt-6 pt-12">
@@ -26,6 +28,8 @@ function Contact() {
   </div>
 </section>
     </div>
+    <Footer/>
+    </>
   )
 }
 
