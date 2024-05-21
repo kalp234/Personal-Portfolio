@@ -39,7 +39,7 @@ const Projects = () => {
        The Fit Club GYM 
  
     </h2>
-    <p>"Discover my dynamic gym website, built with HTML, CSS, JavaScript, and React. <span className='hidden md:flex'>Fully responsive and feature-rich, designed to provide an exceptional user experience for fitness enthusiasts.</span>"</p>
+    <p>"Discover my dynamic gym website, built with HTML, CSS, JavaScript, and React.<span className='hidden md:flex'>Fully responsive and feature-rich, designed to provide an exceptional user experience for fitness enthusiasts.</span>"</p>
     <div className="card-actions justify-end">
       <a href="https://kalp234.github.io/TWSIP-1/" className="badge badge-outline w-20 transition duration-400  hover:bg-blue-600 hover:text-white p-4 font-semibold">Demo</a> 
       <a href="https://github.com/kalp234/TWSIP-1"className="badge badge-outline w-20 transition duration-400  hover:bg-blue-600 hover:text-white p-4 font-semibold">Code</a>
