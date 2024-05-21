@@ -3,7 +3,6 @@ import { Link as ScrollLink } from "react-scroll";
 import { NavLink as RouterLink } from "react-router-dom";
 
 const Navbar = () => {
-  const [navbar, setNavbar] = useState(false);
   const [isOpen, setIsOpen] = useState(false);
 
   const links = [
