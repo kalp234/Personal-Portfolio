@@ -24,7 +24,7 @@ const Projects = () => {
       Healthcare
    
     </h2>
-    <p>"Explore our Healthcare landing page, meticulously crafted with HTML and CSS for flawless performance on laptops, tablets, and mobiles."</p>
+    <p>Explore our Healthcare landing page, meticulously crafted with HTML and CSS for flawless performance on laptops, tablets, and mobiles.</p>
     <div className="card-actions justify-end">
       <a href="https://kalp234.github.io/TWSIP-1/" className="badge badge-outline w-20 transition duration-400 hover:bg-blue-600 hover:text-white p-4 font-semibold">Demo</a> 
       <a href="https://github.com/kalp234/TWSIP-1"className="badge badge-outline w-20 transition duration-400  hover:bg-blue-600 hover:text-white p-4 font-semibold">Code</a>
@@ -39,7 +39,8 @@ const Projects = () => {
        The Fit Club GYM 
  
     </h2>
-    <p>"Discover my dynamic gym website, built with HTML, CSS, JavaScript, and React.<span className='hidden md:flex'>Fully responsive and feature-rich, designed to provide an exceptional user experience for fitness enthusiasts.</span>"</p>
+    <p>Discover my dynamic gym website, built with HTML, CSS, JavaScript, and React.
+      <span className='hidden lg:flex'>Fully responsive and feature-rich, designed to provide an exceptional user experience for fitness enthusiasts.</span></p>
     <div className="card-actions justify-end">
       <a href="https://kalp234.github.io/TWSIP-1/" className="badge badge-outline w-20 transition duration-400  hover:bg-blue-600 hover:text-white p-4 font-semibold">Demo</a> 
       <a href="https://github.com/kalp234/TWSIP-1"className="badge badge-outline w-20 transition duration-400  hover:bg-blue-600 hover:text-white p-4 font-semibold">Code</a>
@@ -54,7 +55,7 @@ const Projects = () => {
       Ecommerce Site
   
     </h2>
-    <p>"Experience my top-notch Ecommerce website crafted with HTML, CSS, and JavaScript. <span className="hidden md:flex">Fully functional, responsive, and meticulously designed to elevate your online business.</span> "</p>
+    <p>Experience my top-notch Ecommerce website crafted with HTML, CSS, and JavaScript. <span className="hidden lg:flex">Fully functional, responsive, and meticulously designed to elevate your online business.</span></p>
     <div className="card-actions justify-end">
       <a href="https://kalp234.github.io/TWSIP-1/" className="badge badge-outline w-20 transition duration-400   hover:bg-blue-600 hover:text-white p-4 font-semibold">Demo</a> 
       <a href="https://github.com/kalp234/TWSIP-1"className="badge badge-outline transition duration-400 w-20 hover:bg-blue-600 hover:text-white p-4 font-semibold">Code</a>
@@ -68,7 +69,7 @@ const Projects = () => {
       Youtube-Clone
      
     </h2>
-    <p>"A replica of layout of YouTube's home page. <span className="hidden md:flex">The design includes a responsive navigation bar, a dynamic video grid displaying thumbnails and titles, and a sidebar with various categories and recommended channels.</span>"</p>
+    <p>A replica of layout of YouTube's home page. <span className="hidden lg:flex">The design includes a responsive navigation bar, a dynamic video grid displaying thumbnails and titles, and a sidebar with various categories and recommended channels.</span></p>
     <div className="card-actions justify-end">
       <a href="https://kalp234.github.io/TWSIP-1/" className="badge badge-outline w-20 transition duration-400  hover:bg-blue-600 hover:text-white p-4 font-semibold">Demo</a> 
       <a href="https://github.com/kalp234/Youtube-clone"className="badge badge-outline transition duration-400 w-20 hover:bg-blue-600 hover:text-white p-4 font-semibold">Code</a>
@@ -83,7 +84,7 @@ const Projects = () => {
   
     </h2>
     <p>
-"This project is a simple clone of the Facebook login page created with HTML and CSS.<span className="hidden md:flex"> It features the familiar layout with input fields for email/phone and password, a 'Log In' button, and links for password recovery and account creation.</span>"</p>
+This project is a simple clone of the Facebook login page created with HTML and CSS.<span className="hidden lg:flex"> It features the familiar layout with input fields for email/phone and password, a 'Log In' button, and links for password recovery and account creation.</span></p>
     <div className="card-actions justify-end">
       <a href="https://kalp234.github.io/TWSIP-1/" className="badge badge-outline transition duration-400 w-20 hover:bg-blue-600 hover:text-white p-4 font-semibold">Demo</a> 
       <a href="https://github.com/kalp234/TWSIP-1"className="badge badge-outline transition duration-400 w-20 hover:bg-blue-600 hover:text-white p-4 font-semibold">Code</a>
