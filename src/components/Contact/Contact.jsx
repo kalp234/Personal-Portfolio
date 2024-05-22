@@ -6,7 +6,7 @@ function Contact() {
   const handleSubmit = (event) => {
     event.preventDefault(); // Prevents the default form submission behavior
     alert('Form submitted!');
-    window.location.reload();
+    // window.location.reload();
   }
 
   return (
