@@ -4,8 +4,6 @@ import Skills from "./components/Skills/Skills";
 import Projects from "./components/Projects/Projects";
 import Education from "./components/Education/Education";
 import Footer from "./components/Footer/Footer";
-// import Contact from "./components/Navbar/Contact";
-
 
 function HomePage() {
   return (
