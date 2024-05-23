@@ -27,7 +27,7 @@ const Hero = () => {
             growth mindset, I am ready to make a meaningful contribution and
             achieve great things.
           </p>
-          <a href="resume.pdf" download="Resume">
+          <a href="https://drive.google.com/file/d/1bRuL5RGzvbXY4uFpNTSAwkCSOhc36InQ/view?usp=sharing" download="Resume">
             <button className="btn btn-primary bg-blue-600  text-white w-fit px-6 py-3 my-2">
               Resume
             </button>
