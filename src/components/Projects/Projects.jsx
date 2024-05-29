@@ -95,13 +95,13 @@ const Projects = () => {
               </p>
               <div className="card-actions justify-end">
                 <a
-                  href="https://kalp234.github.io/TWSIP-1/"
+                  href="https://ecommerce-site-three-mauve.vercel.app/"
                   className="badge badge-outline w-20 transition duration-400   hover:bg-blue-600 hover:text-white p-4 font-semibold"
                 >
                   Demo
                 </a>
                 <a
-                  href="https://github.com/kalp234/TWSIP-1"
+                  href="https://github.com/kalp234/Ecommerce-Site"
                   className="badge badge-outline transition duration-400 w-20 hover:bg-blue-600 hover:text-white p-4 font-semibold"
                 >
                   Code
