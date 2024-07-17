@@ -4,6 +4,7 @@ import Youtubeclone from "../../assets/Youtube-clone.png";
 import Ecommerce from "../../assets/Ecommerce.png";
 import GYM from "../../assets/GYM.png";
 import Facebook from "../../assets/Facebook.png";
+import News from "../../assets/News-Buzz.png"
 
 const Projects = () => {
   return (
@@ -92,6 +93,32 @@ const Projects = () => {
                   Fully functional, responsive, and meticulously designed to
                   elevate your online business.
                 </span>
+              </p>
+              <div className="card-actions justify-end">
+                <a
+                  href="https://ecommerce-site-three-mauve.vercel.app/"
+                  className="badge badge-outline w-20 transition duration-400   hover:bg-blue-600 hover:text-white p-4 font-semibold"
+                >
+                  Demo
+                </a>
+                <a
+                  href="https://github.com/kalp234/Ecommerce-Site"
+                  className="badge badge-outline transition duration-400 w-20 hover:bg-blue-600 hover:text-white p-4 font-semibold"
+                >
+                  Code
+                </a>
+              </div>
+            </div>
+          </div>
+          <div className="card w-full bg-base-100 shadow-xl dark:text-black dark:bg-white">
+            <figure>
+              <img className="h-40 md:h-52 lg:h-full" src={News} />
+            </figure>
+            <div className="card-body -mt-5">
+              <h2 className="card-title text-2xl font-bold">News-Buzz</h2>
+              <p>
+              "Stay informed with our cutting-edge news app, delivering real-time updates on the top 10 headlines worldwide, powered by React and seamless API integration."{" "}
+                
               </p>
               <div className="card-actions justify-end">
                 <a
