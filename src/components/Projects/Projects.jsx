@@ -122,13 +122,13 @@ const Projects = () => {
               </p>
               <div className="card-actions justify-end">
                 <a
-                  href="https://ecommerce-site-three-mauve.vercel.app/"
+                  href="https://news-buzz-alpha.vercel.app/"
                   className="badge badge-outline w-20 transition duration-400   hover:bg-blue-600 hover:text-white p-4 font-semibold"
                 >
                   Demo
                 </a>
                 <a
-                  href="https://github.com/kalp234/Ecommerce-Site"
+                  href="https://github.com/kalp234/News-Buzz"
                   className="badge badge-outline transition duration-400 w-20 hover:bg-blue-600 hover:text-white p-4 font-semibold"
                 >
                   Code
