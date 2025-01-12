@@ -42,7 +42,7 @@ const Education = () => {
                   algorithms, and cutting-edge technologies.
                 </p>
 
-                <p>CGPA : 8.61 || CPI : 9.29</p>
+                <p>CGPA : 9.22 || CPI : 9.38</p>
               </div>
             </li>
             <li className="mb-10 ms-6">
