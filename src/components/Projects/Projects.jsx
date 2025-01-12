@@ -117,7 +117,7 @@ const Projects = () => {
             <div className="card-body -mt-5">
               <h2 className="card-title text-2xl font-bold">News-Buzz</h2>
               <p className="text-black dark:text-black text-left">
-              "Stay informed with our cutting-edge news app, delivering real-time updates on the top 10 headlines worldwide, powered by React and seamless API integration."{" "}
+              Stay informed with our cutting-edge news app, delivering real-time updates on the top 10 headlines worldwide, powered by React and seamless API integration.{" "}
                 
               </p>
               <div className="card-actions justify-end">
