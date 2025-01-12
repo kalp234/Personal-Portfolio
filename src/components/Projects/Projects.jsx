@@ -25,7 +25,7 @@ const Projects = () => {
             </figure>
             <div className="card-body -mt-5">
               <h2 className="card-title text-2xl font-bold">Healthcare</h2>
-              <p>
+              <p className="text-black dark:text-black text-left">
                 Explore our Healthcare landing page, meticulously crafted with
                 HTML and CSS for flawless performance on laptops, tablets, and
                 mobiles.
@@ -55,7 +55,7 @@ const Projects = () => {
               <h2 className="card-title text-2xl font-bold">
                 The Fit Club GYM
               </h2>
-              <p>
+              <p className="text-black dark:text-black text-left">
                 Discover my dynamic gym website, built with HTML, CSS,
                 JavaScript, and React.
                 <span className="hidden lg:flex">
@@ -86,7 +86,7 @@ const Projects = () => {
             </figure>
             <div className="card-body -mt-5">
               <h2 className="card-title text-2xl font-bold">Ecommerce Site</h2>
-              <p>
+              <p className="text-black dark:text-black text-left">
                 Experience my top-notch Ecommerce website crafted with HTML,
                 CSS, and JavaScript.{" "}
                 <span className="hidden lg:flex">
@@ -116,7 +116,7 @@ const Projects = () => {
             </figure>
             <div className="card-body -mt-5">
               <h2 className="card-title text-2xl font-bold">News-Buzz</h2>
-              <p>
+              <p className="text-black dark:text-black text-left">
               "Stay informed with our cutting-edge news app, delivering real-time updates on the top 10 headlines worldwide, powered by React and seamless API integration."{" "}
                 
               </p>
@@ -142,7 +142,7 @@ const Projects = () => {
             </figure>
             <div className="card-body -mt-5">
               <h2 className="card-title text-2xl font-bold">Youtube-Clone</h2>
-              <p>
+              <p className="text-black dark:text-black text-left">
                 A replica of layout of YouTube's home page.{" "}
                 <span className="hidden lg:flex">
                   The design includes a responsive navigation bar, a dynamic
@@ -168,13 +168,13 @@ const Projects = () => {
           </div>
           <div className="card w-full bg-base-100 shadow-xl dark:text-black dark:bg-white">
             <figure>
-              <img className="h-40 md:h-52 lg:h-full" src={Facebook} />
+              <img className="h-40 md:h-52 lg:h-56" src={Facebook} />
             </figure>
             <div className="card-body -mt-5">
               <h2 className="card-title text-2xl font-bold">
                 Facebook-LoginPage
               </h2>
-              <p>
+              <p className="text-black dark:text-black text-left">
                 This project is a simple clone of the Facebook login page
                 created with HTML and CSS.
                 <span className="hidden lg:flex">
