@@ -36,13 +36,13 @@ const Education = () => {
               </time>
               <div className="mb-4 text-base font-normal  text-gray-200">
                 <p>
-                  Currently in my 3rd year of B.Tech in Computer Science and
+                  Completed my B.Tech in Computer Science and
                   Engineering at New LJ Institute of Engineering and Technology.
                   Gaining comprehensive knowledge in software development,
                   algorithms, and cutting-edge technologies.
                 </p>
 
-                <p>CGPA : 9.22 || CPI : 9.38</p>
+                <p>CGPA : 9.24 || CPI : 9.36</p>
               </div>
             </li>
             <li className="mb-10 ms-6">
@@ -69,7 +69,7 @@ const Education = () => {
                 <p>
                   Focused on science stream with a strong emphasis on practical
                   learning and academic excellence.
-                  <p>Result : 88%</p>
+                  <p>Result : 86%</p>
                 </p>
               </div>
             </li>

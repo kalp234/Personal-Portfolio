@@ -9,7 +9,7 @@ const Footer = () => {
             <div className="w-full mx-auto max-w-screen-xl p-4 flex items-center justify-center">
               <span className="text-sm  text-center ">
                 {" "}
-                © 2024 Portfolio. All Rights Reserved.
+                © 2025 Portfolio. All Rights Reserved.
               </span>
             </div>
           </footer>

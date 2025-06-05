@@ -3,6 +3,7 @@ import Healthcare from "../../assets/Healthcare.png";
 import Youtubeclone from "../../assets/Youtube-clone.png";
 import Ecommerce from "../../assets/Ecommerce.png";
 import GYM from "../../assets/GYM.png";
+import KalpInvestment from "../../assets/kalpinvestment.png";
 import Facebook from "../../assets/Facebook.png";
 import News from "../../assets/News-Buzz.png"
 
@@ -46,8 +47,35 @@ const Projects = () => {
               </div>
             </div>
           </div>
-
           <div className="card w-full bg-base-100 shadow-xl dark:text-black dark:bg-white">
+            <figure>
+              <img className="h-40 md:h-52 lg:h-full" src={KalpInvestment} />
+            </figure>
+            <div className="card-body -mt-5">
+              <h2 className="card-title text-2xl font-bold">Kalp Investment</h2>
+              <p className="text-black dark:text-black text-left">
+  Explore our Kalp Investment website, carefully crafted for my family business using React and modern web technologies, featuring LIC plans, a premium estimator, and mutual fund portfolios.{" "}
+
+</p>
+
+              <div className="card-actions justify-end">
+                <a
+                  href="https://kalp-investment.vercel.app/"
+                  className="badge badge-outline w-20 transition duration-400 hover:bg-blue-600 hover:text-white p-4 font-semibold"
+                >
+                  Demo
+                </a>
+                <a
+                  href="https://github.com/kalp234/Kalp-Investment"
+                  className="badge badge-outline w-20 transition duration-400  hover:bg-blue-600 hover:text-white p-4 font-semibold"
+                >
+                  Code
+                </a>
+              </div>
+            </div>
+          </div>
+
+          {/* <div className="card w-full bg-base-100 shadow-xl dark:text-black dark:bg-white">
             <figure>
               <img className="h-40 md:h-52 lg:h-full" src={GYM} />
             </figure>
@@ -78,7 +106,7 @@ const Projects = () => {
                 </a>
               </div>
             </div>
-          </div>
+          </div> */}
 
           <div className="card w-full bg-base-100 shadow-xl dark:text-black dark:bg-white">
             <figure>
@@ -87,13 +115,11 @@ const Projects = () => {
             <div className="card-body -mt-5">
               <h2 className="card-title text-2xl font-bold">Ecommerce Site</h2>
               <p className="text-black dark:text-black text-left">
-                Experience my top-notch Ecommerce website crafted with HTML,
-                CSS, and JavaScript.{" "}
-                <span className="hidden lg:flex">
-                  Fully functional, responsive, and meticulously designed to
-                  elevate your online business.
-                </span>
-              </p>
+  Experience my premium Cara e-commerce website crafted with React, Node.js, and MongoDB.{" "}
+  <span className="hidden lg:flex">
+    Fully functional, responsive, and meticulously designed to deliver a seamless online shopping experience.
+  </span>
+</p>
               <div className="card-actions justify-end">
                 <a
                   href="https://ecommerce-site-three-mauve.vercel.app/"

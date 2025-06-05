@@ -4,6 +4,8 @@ import css from "../../assets/css.svg";
 import javascript from "../../assets/javascript.svg";
 import tailwindcss from "../../assets/tailwind-css.svg";
 import react from "../../assets/react.svg";
+import node from "../../assets/download.png";
+import mongodb from "../../assets/mongodb.webp";
 import github from "../../assets/github.svg";
 import vscode from "../../assets/vs-code.svg";
 
@@ -40,6 +42,14 @@ const Skills = () => {
           <div className="shadow-md hover:scale-105 duration-500 py-2 rounded-lg items-center flex flex-col shadow-sky-400">
             <img src={react} alt="" className="h-36 w-36" />
             <p className="mt-4">REACTJS</p>
+          </div>
+          <div className="shadow-md hover:scale-105 duration-500 py-2 rounded-lg items-center flex flex-col shadow-green-500">
+            <img src={node} alt="" className="h-36 w-36" />
+            <p className="mt-4">NODEJS</p>
+          </div>
+          <div className="shadow-md hover:scale-105 duration-500 py-2 rounded-lg items-center flex flex-col shadow-green-400">
+            <img src={mongodb} alt="" className="h-36 w-36" />
+            <p className="mt-4">MongoDB</p>
           </div>
           <div className="shadow-md hover:scale-105 duration-500 py-2 rounded-lg items-center flex flex-col shadow-white">
             <img src={github} alt="" className="h-36 w-36 " />
