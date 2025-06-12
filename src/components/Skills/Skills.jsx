@@ -22,7 +22,7 @@ const Skills = () => {
           </p>
         </div>
 
-        <div className="grid grid-cols-2 w-full sm:grid-cols-3 gap-8 text-center py-8 px-7 md:px-12 sm:px-0  text-white">
+        <div className="grid grid-cols-2 w-full sm:grid-cols-3 gap-8 text-center py-8 px-0 md:px-12  text-white">
           <div className="shadow-md hover:scale-105 duration-500 py-2 rounded-lg items-center flex flex-col shadow-orange-500">
             <img src={html} alt="" className="h-36 w-36" />
             <p className="mt-4">HTML</p>
