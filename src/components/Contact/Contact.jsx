@@ -66,7 +66,7 @@ function Contact() {
                 Contact Us
               </h1>
               <p className="text-gray-400 dark:text-gray-400">
-                Fill up the form below to send us a message.
+                Fill up the form below to send me a message.
               </p>
             </div>
             <div className="m-7">
