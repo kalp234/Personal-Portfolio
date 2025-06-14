@@ -20,33 +20,35 @@ const Projects = () => {
           </p>
         </div>
         <div className="grid grid-cols-1 w-full sm:grid-cols-2 gap-8 text-center py-8 px-12 sm:px-0  text-black dark:text-black dark:bg-white">
-          <div className="card w-full bg-base-100 shadow-xl dark:text-black dark:bg-white">
+        <div className="card w-full bg-base-100 shadow-xl dark:text-black dark:bg-white">
             <figure>
-              <img className="h-40 md:h-52 lg:h-full" src={Healthcare} />
+              <img className="h-40 md:h-52 lg:h-full" src={Ecommerce} />
             </figure>
             <div className="card-body -mt-5">
-              <h2 className="card-title text-2xl font-bold">Healthcare</h2>
+              <h2 className="card-title text-2xl font-bold">Ecommerce Site</h2>
               <p className="text-black dark:text-black text-left">
-                Explore our Healthcare landing page, meticulously crafted with
-                HTML and CSS for flawless performance on laptops, tablets, and
-                mobiles.
-              </p>
+  Experience my premium Cara e-commerce website crafted with React, Node.js, and MongoDB.{" "}
+  <span className="hidden lg:flex">
+    Fully functional, responsive, and meticulously designed to deliver a seamless online shopping experience.
+  </span>
+</p>
               <div className="card-actions justify-end">
                 <a
-                  href="https://health-care-ten-rho.vercel.app/"
-                  className="badge badge-outline w-20 transition duration-400 hover:bg-blue-600 hover:text-white p-4 font-semibold"
+                  href="https://cara-project-nine.vercel.app/"
+                  className="badge badge-outline w-20 transition duration-400   hover:bg-blue-600 hover:text-white p-4 font-semibold"
                 >
                   Demo
                 </a>
                 <a
-                  href="https://github.com/kalp234/HealthCare"
-                  className="badge badge-outline w-20 transition duration-400  hover:bg-blue-600 hover:text-white p-4 font-semibold"
+                  href="https://github.com/kalp234/Ecommerce-Site"
+                  className="badge badge-outline transition duration-400 w-20 hover:bg-blue-600 hover:text-white p-4 font-semibold"
                 >
                   Code
                 </a>
               </div>
             </div>
           </div>
+       
           <div className="card w-full bg-base-100 shadow-xl dark:text-black dark:bg-white">
             <figure>
               <img className="h-40 md:h-52 lg:h-full" src={KalpInvestment} />
@@ -108,28 +110,27 @@ const Projects = () => {
             </div>
           </div> */}
 
-          <div className="card w-full bg-base-100 shadow-xl dark:text-black dark:bg-white">
+<div className="card w-full bg-base-100 shadow-xl dark:text-black dark:bg-white">
             <figure>
-              <img className="h-40 md:h-52 lg:h-full" src={Ecommerce} />
+              <img className="h-40 md:h-52 lg:h-full" src={Healthcare} />
             </figure>
             <div className="card-body -mt-5">
-              <h2 className="card-title text-2xl font-bold">Ecommerce Site</h2>
+              <h2 className="card-title text-2xl font-bold">Healthcare</h2>
               <p className="text-black dark:text-black text-left">
-  Experience my premium Cara e-commerce website crafted with React, Node.js, and MongoDB.{" "}
-  <span className="hidden lg:flex">
-    Fully functional, responsive, and meticulously designed to deliver a seamless online shopping experience.
-  </span>
-</p>
+                Explore our Healthcare landing page, meticulously crafted with
+                HTML and CSS for flawless performance on laptops, tablets, and
+                mobiles.
+              </p>
               <div className="card-actions justify-end">
                 <a
-                  href="https://cara-project-nine.vercel.app/"
-                  className="badge badge-outline w-20 transition duration-400   hover:bg-blue-600 hover:text-white p-4 font-semibold"
+                  href="https://health-care-ten-rho.vercel.app/"
+                  className="badge badge-outline w-20 transition duration-400 hover:bg-blue-600 hover:text-white p-4 font-semibold"
                 >
                   Demo
                 </a>
                 <a
-                  href="https://github.com/kalp234/Ecommerce-Site"
-                  className="badge badge-outline transition duration-400 w-20 hover:bg-blue-600 hover:text-white p-4 font-semibold"
+                  href="https://github.com/kalp234/HealthCare"
+                  className="badge badge-outline w-20 transition duration-400  hover:bg-blue-600 hover:text-white p-4 font-semibold"
                 >
                   Code
                 </a>
