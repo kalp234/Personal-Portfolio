@@ -89,7 +89,7 @@ const Navbar = () => {
           ))}
         </ul>
       </div>
-      <div className="navbar-end">
+      <div className="navbar-end md:px-2">
         <RouterLink to="/contact-me">
           <a className="btn btn-primary bg-blue-600 text-white">Contact Me</a>
         </RouterLink>
