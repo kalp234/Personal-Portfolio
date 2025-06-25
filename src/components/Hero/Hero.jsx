@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <div
       name="About"
-      className="hero min-h-screen bg-gradient-to-b from-black to-gray-800 pt-16 lg:pt-10"
+      className="hero min-h-screen bg-gradient-to-b from-black to-gray-800 pt-20 lg:pt-10"
     >
       <div className="hero-content flex-col lg:flex-row-reverse">
         <img src={profilepic} className=" max-w-72 rounded-3xl shadow-2xl" />

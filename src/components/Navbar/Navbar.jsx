@@ -42,7 +42,7 @@ const Navbar = () => {
   }, [location, scrollTarget]);
 
   return (
-    <div className="navbar bg-gradient-to-b from-black to-gray-900 z-10 scroll-smooth fixed w-full">
+    <div className="navbar bg-gradient-to-b from-black to-gray-900 z-10 scroll-smooth fixed w-full h-20">
       <div className="navbar-start">
         <div className="dropdown">
           <div
