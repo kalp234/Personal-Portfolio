@@ -163,70 +163,7 @@ const Projects = () => {
               </div>
             </div>
           </div>
-          <div className="card w-full bg-base-100 shadow-xl dark:text-black dark:bg-white">
-            <figure>
-              <img className="h-40 md:h-52 lg:h-full" src={Youtubeclone} />
-            </figure>
-            <div className="card-body -mt-5">
-              <h2 className="card-title text-2xl font-bold">Youtube-Clone</h2>
-              <p className="text-black dark:text-black text-left">
-                A replica of layout of YouTube's home page.{" "}
-                <span className="hidden lg:flex">
-                  The design includes a responsive navigation bar, a dynamic
-                  video grid displaying thumbnails and titles, and a sidebar
-                  with various categories and recommended channels.
-                </span>
-              </p>
-              <div className="card-actions justify-end">
-                <a
-                  href="https://kalp234.github.io/TWSIP-1/"
-                  className="badge badge-outline w-20 transition duration-400  hover:bg-blue-600 hover:text-white p-4 font-semibold"
-                >
-                  Demo
-                </a>
-                <a
-                  href="https://github.com/kalp234/Youtube-clone"
-                  className="badge badge-outline transition duration-400 w-20 hover:bg-blue-600 hover:text-white p-4 font-semibold"
-                >
-                  Code
-                </a>
-              </div>
-            </div>
-          </div>
-          <div className="card w-full bg-base-100 shadow-xl dark:text-black dark:bg-white">
-            <figure>
-              <img className="h-40 md:h-52 lg:h-56" src={Facebook} />
-            </figure>
-            <div className="card-body -mt-5">
-              <h2 className="card-title text-2xl font-bold">
-                Facebook-LoginPage
-              </h2>
-              <p className="text-black dark:text-black text-left">
-                This project is a simple clone of the Facebook login page
-                created with HTML and CSS.
-                <span className="hidden lg:flex">
-                  {" "}
-                  It features the familiar layout with input fields for
-                  email/phone and password, a 'Log In' button, and links for
-                  password recovery and account creation.
-                </span>
-              </p>
-              <div className="card-actions justify-end">
-                <a
-                  href="https://kalp234.github.io/TWSIP-1/"
-                  className="badge badge-outline transition duration-400 w-20 hover:bg-blue-600 hover:text-white p-4 font-semibold"
-                >
-                  Demo
-                </a>
-                <a
-                  href="https://github.com/kalp234/TWSIP-1"
-                  className="badge badge-outline transition duration-400 w-20 hover:bg-blue-600 hover:text-white p-4 font-semibold"
-                >
-                  Code
-                </a>
-              </div>
-            </div>
-          </div>
+         
         </div>
       </div>
     </div>
