@@ -25,18 +25,18 @@ const Education = () => {
                 </svg>
               </span>
               <h3 className="flex items-center mb-1 text-lg font-semibold text-white ">
-                Dhirubhai Ambani University(DAU)
+                BITS PILANI - K.K BIRLA GOA CAMPUS
                 <span className="bg-blue-100 text-blue-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded dark:bg-blue-900 dark:text-blue-300 ms-3">
                   Latest
                 </span>
               </h3>
               <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
-                <p className="mb-2">Gandhinagar,Gujarat.</p>{" "}
+                <p className="mb-2">GOA</p>{" "}
                 <p> Academic Year : 2025-2027</p>
               </time>
               <div className="mb-4 text-base font-normal  text-gray-200">
                 <p>
-                I have joined Dhirubhai Ambani University, formerly known as DAIICT, for M.Tech in ICT with a specialization in Software Systems.Excited to begin this new academic journey at one of the premier institutes of India!
+                I have joined BITS Pilani – K.K. Birla Goa Campus for my M.Tech journey. Excited to be part of an institute known for its academic excellence, innovation, and vibrant campus life, and to begin this new chapter of growth and learning in such a beautiful environment!
                 </p>
 
               </div>
