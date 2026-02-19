@@ -1,5 +1,5 @@
 import React from "react";
-import profilepic from "../../assets/profilepic.jpg";
+import profilepic from "../../assets/profilepic2.jpg";
 
 const Hero = () => {
   return (
@@ -18,7 +18,7 @@ const Hero = () => {
           </h1>
           <h2 className="text-4xl font-bold  text-white">
             I'm a{" "}
-            <span className="text-purple-500">Frontend React Developer!</span>
+            <span className="text-purple-500">MERN Stack Developer!</span>
           </h2>
           <p className="py-6 max-w-2xl text-gray-400">
             I am a motivated and versatile individual, always eager to take on
@@ -27,7 +27,7 @@ const Hero = () => {
             growth mindset, I am ready to make a meaningful contribution and
             achieve great things.
           </p>
-          <a href="https://drive.google.com/file/d/1Wbo3OTgWconOe4zwOeVLfb5YD41ploV9/view?usp=drive_link" download="Resume">
+          <a href="https://drive.google.com/file/d/1FB77bKONb7vyroINgTD0wdoQvuszt1ks/view?usp=sharing" download="Resume">
             <button className="btn btn-primary bg-blue-600  text-white w-fit px-6 py-3 my-2">
               Resume
             </button>
